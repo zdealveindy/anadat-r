@@ -1,0 +1,275 @@
+Full species name	light	temp	cont	moist	react	nutr
+Abies alba	3	5	4			
+Acer platanoides	4	6	4			
+Acer pseudoplatanus	4		4	6		7
+Alnus glutinosa	5	5	3	9	6	
+Alnus incana	6	4	5	7	8	
+Berberis vulgaris	7		4	4	8	3
+Betula pendula	7					
+Carpinus betulus	4	6	4			
+Corylus avellana	6	5	3			5
+Crataegus species						
+Euonymus europaea	6	5	3	5	8	5
+Fagus sylvatica	3	5	2	5		
+Frangula alnus	6	6	5	8	4	
+Fraxinus excelsior	4	5	3		7	7
+Juniperus communis ssp. communis	8			4		
+Ligustrum vulgare	7	6	3	4	8	3
+Lonicera xylosteum	5	6	4	5	7	6
+Picea abies	5	3	6			
+Pinus sylvestris	7		7			
+Populus tremula	6	5	5	5		
+Prunus avium	4	5	4	5	7	5
+Prunus padus	5	5	3	8	7	6
+Prunus spinosa	7	5	5	4	7	
+Pyrus pyraster						
+Quercus petraea	6	6	2	5		
+Quercus robur	7	6	6			
+Reynoutria japonica	8	6	2	8	5	7
+Rhamnus cathartica	7	5	5	4	8	4
+Ribes uva-crispa	4	5	2			6
+Rosa canina agg.	8	5	3	4		
+Rosa pendulina	6	4	2	5	7	6
+Rosa species						
+Rubus fruticosus agg.						
+Rubus idaeus	7					6
+Salix fragilis	5	5	3	8	6	6
+Salix triandra	7	5	5	8	7	5
+Salix viminalis	7	6	7	8	7	
+Sambucus nigra	7	5	3	5		9
+Sambucus racemosa	6	4	4	5	5	8
+Sorbus aucuparia	6				4	
+Tilia cordata	5	5	4	5		5
+Tilia platyphyllos	4	6	2	6		7
+Ulmus glabra	4	5	3	6	7	7
+Achillea millefolium	8			4		5
+Achillea tanacetifolia						
+Aconitum lycoctonum	3	4	4	7	7	8
+Aconitum variegatum	5	4	4	7	8	7
+Actaea spicata	3	5	4	5	6	7
+Aegopodium podagraria	5	5	3	6	7	8
+Aethusa cynapium	5	6	4	5	7	7
+Agrostis canina	9	5	5	9	3	2
+Agrostis capillaris	7		3		4	4
+Agrostis stolonifera	8		5	7		5
+Ajuga genevensis	8			3	7	2
+Ajuga reptans	6		2	6	6	6
+Alisma plantago-aquatica	7	5		10		8
+Alliaria petiolata	5	6	3	5	7	9
+Allium senescens ssp. montanum	9		5	2	6	2
+Allium species						
+Anemone nemorosa			3	5		
+Angelica sylvestris	7		4	8		4
+Anthericum ramosum	7	5	4	3	7	3
+Anthriscus sylvestris	7		5	5		8
+Arrhenatherum elatius	8	5	3		7	7
+Artemisia vulgaris	7	6		6		8
+Asarum europaeum	3	6	5	5	7	6
+Asplenium septentrionale	8		4	3	2	2
+Asplenium trichomanes	5		3	5		3
+Astragalus glycyphyllos	6	6	4	4	7	3
+Athyrium filix-femina	3		3	7		6
+Aurinia saxatilis ssp. arduini	9	7	4	2	8	1
+Avenella flexuosa	6		2		2	3
+Betonica officinalis	7	6	5			3
+Bidens frondosa	7	6		8	7	8
+Bidens tripartita	8	6		9		8
+Brachypodium pinnatum	6	5	5	4	7	4
+Bromus benekenii	5	5	4	5	7	5
+Calamagrostis arundinacea	6	5	4	5	4	5
+Calamagrostis epigejos	7	5	7			6
+Calluna vulgaris	8		3		1	1
+Caltha palustris	7			9		6
+Calystegia sepium	8	6	5	6	7	9
+Campanula patula	8	6	4	5	7	5
+Campanula persicifolia	5	5	4	4	8	3
+Campanula rapunculoides	6	6	4	4	7	4
+Campanula rotundifolia	7	5				2
+Campanula trachelium	4		3	6	8	8
+Cardamine amara	7		4	9	6	4
+Cardamine flexuosa	6	5	2	8	4	5
+Cardamine impatiens	5		4	6	7	8
+Cardaminopsis arenosa	9		4	4	6	2
+Carduus personata	7	4	2	8	8	8
+Carduus species						
+Carex acuta	7	5	7	9	6	4
+Carex brizoides	6	5	4	6	4	3
+Carex buekii	8	6	6	8	8	6
+Carex digitata	3		4	5		4
+Carex muricata agg.						
+Carex species						
+Chaerophyllum hirsutum	6	3	4	8		7
+Chaerophyllum temulum	5	6	3	5		8
+Chelidonium majus	6	6		5		8
+Circaea alpina	4	4	4	7	5	5
+Cirsium oleraceum	6		3	7	7	5
+Clematis vitalba	7	6	3	5	7	7
+Clinopodium vulgare	7		3	4	7	3
+Convallaria majalis	5		3	4		4
+Convolvulus arvensis	7	6		4	7	
+Cuscuta europaea		6	5	7		7
+Cymbalaria muralis	7	7	4	6	8	5
+Cystopteris fragilis	5		3	7	8	4
+Cytisus nigricans	6	6	5	4	6	2
+Dactylis glomerata	7		3	5		6
+Danthonia decumbens	8		2		3	2
+Deschampsia cespitosa	6			7		3
+Dianthus carthusianorum ssp. carthusianorum	8	5	4	3	7	2
+Dianthus deltoides	8	5	4	3	3	2
+Digitalis grandiflora	7	4	4	5	5	5
+Doronicum austriacum	5	3	4	6	7	7
+Dryopteris carthusiana	5		3		4	3
+Dryopteris dilatata	4		3	6		7
+Dryopteris expansa	4	3		6	2	2
+Dryopteris filix-mas	3		3	5	5	6
+Elymus caninus	6	6	3	6	7	8
+Epilobium angustifolium	8		5	5	5	8
+Epilobium collinum	8	4	5	5	2	2
+Epilobium hirsutum	7	5	5	8	8	8
+Epilobium montanum	4		3	5	6	6
+Epilobium roseum	7	6	4	9	8	8
+Epilobium species						
+Equisetum arvense	6					3
+Equisetum palustre	7		5	8		3
+Euphorbia cyparissias	8		4	3		3
+Euphorbia dulcis	4	5	2	5	8	5
+Fallopia convolvulus	7	6		5		6
+Fallopia dumetorum	6	6	4	5		7
+Festuca gigantea	4	5	3	7	6	6
+Festuca heterophylla	5	6	4	4	5	5
+Festuca ovina	7		3		3	1
+Festuca pallens	9	7	4	2	8	1
+Festuca rubra			5	6	6	
+Filipendula ulmaria	7	5		8		5
+Fragaria moschata	6	6	4	5	6	6
+Fragaria vesca	7		5	5		6
+Galeobdolon montanum	3	4	5	6	7	6
+Galeopsis bifida	7	5	5	5	6	6
+Galeopsis pubescens	7	5	4	5		6
+Galeopsis species						
+Galeopsis speciosa	7		6	5		8
+Galium album ssp. album	7		3	5	7	5
+Galium aparine	7	6	3		6	8
+Galium odoratum	2	5	2	5	6	5
+Galium palustre	6	5	3	9		4
+Galium rotundifolium	2	5	2	5	5	4
+Galium sylvaticum	5	5	4	5	6	5
+Galium uliginosum	6	5		8		2
+Genista germanica	7	5	4	4	2	2
+Genista tinctoria	8	6	3	6	6	1
+Geranium robertianum	5		3			7
+Geum urbanum	4	5	5	5		7
+Glechoma hederacea	6	6	3	6		7
+Glyceria fluitans	7		3	9		7
+Glyceria maxima	9	5		10	8	9
+Gymnocarpium dryopteris	3	4	5	6	4	5
+Hedera helix	4	5	2	5		
+Hepatica nobilis	4	6	4	4	7	5
+Heracleum sphondylium	7	5	2	5		8
+Hieracium lachenalii	5	5		4	4	2
+Hieracium murorum	4		3	5	5	4
+Hieracium pilosella	7		3	4		2
+Hieracium sabaudum	5	6	3	4	4	2
+Hieracium umbellatum	6	6		4	4	2
+Holcus lanatus	7	6	3	6		5
+Humulus lupulus	7	6	3	8	6	8
+Hylotelephium maximum	8	6	4	3	5	3
+Hypericum montanum	5	6	4	4	7	3
+Hypericum perforatum	7	6	5	4	6	4
+Impatiens glandulifera	5	7	2	8	7	7
+Impatiens noli-tangere	4	5	5	7	7	6
+Impatiens parviflora	4	6	5	5		6
+Iris pseudacorus	7	6	3	9		7
+Juncus articulatus	8		3	9		2
+Juncus effusus	8	5	3	7	3	4
+Knautia arvensis	7	6	3	4		4
+Knautia dipsacifolia	5	4	4	6	6	6
+Koeleria pyramidata s.lat.						
+Lactuca serriola	9	7	7	4		4
+Lamium maculatum	5		4	6	7	8
+Lapsana communis	5	6	3	5		7
+Lathyrus vernus	4	6	4	5	8	4
+Lilium martagon	4		5	5	7	5
+Lunaria rediviva	4	5	4	6	7	8
+Luzula luzuloides	4		4	5	3	4
+Luzula pilosa	2		3	5	5	4
+Lychnis viscaria	7	6	4	3	4	2
+Lycopus europaeus	7	6	5	9	7	7
+Lysimachia vulgaris	6			8		
+Lythrum salicaria	7	5	5	8	6	
+Melampyrum nemorosum	5	6	4	4	6	4
+Melampyrum pratense			3		3	2
+Melica nutans	4		3	4		3
+Mentha longifolia	7	5	4	8	9	7
+Mentha x verticillata	7	5		8	7	
+Mercurialis perennis	2		3		8	7
+Milium effusum	4		3	5	5	5
+Moehringia trinervia	4	5	3	5	6	7
+Mycelis muralis	4	6	2	5		6
+Myosotis palustris agg.	7		5	8		5
+Myosotis sylvatica	6		3	5		7
+Myosoton aquaticum	7	5	3	8	7	8
+Origanum vulgare	7		3	3	8	3
+Oxalis acetosella	1		3	5	4	6
+Paris quadrifolia	3		4	6	7	7
+Persicaria amphibia	7	6		11	6	4
+Persicaria hydropiper	7	6		8	5	8
+Phalaris arundinacea	7	5		8	7	7
+Pimpinella saxifraga ssp. saxifraga	7		5	3		2
+Plantago lanceolata	6		3			
+Poa angustifolia	7	6				3
+Poa nemoralis	5		5	5	5	4
+Poa palustris	7	5	5	9	8	7
+Poa trivialis	6		3	7		7
+Polygonatum multiflorum	2		5	5	6	5
+Polygonatum odoratum	7	5	5	3	7	3
+Polypodium vulgare	5	5	3	4	2	2
+Prenanthes purpurea	4	4	4	5	5	5
+Pulmonaria obscura	4	5	6	6	8	7
+Ranunculus lanuginosus	3	6	4	6	7	7
+Ranunculus repens	6			7		7
+Rumex acetosella	8	5	3	3	2	2
+Rumex aquaticus	7	6	7	8	7	8
+Rumex conglomeratus	8	6	3	7		8
+Rumex obtusifolius	7	5	3	6		9
+Salvia glutinosa	4	5	4	6	7	7
+Scrophularia nodosa	4	5	3	6	6	7
+Scutellaria galericulata	7	6	5	9	7	6
+Securigera varia	7	6	5	4	9	3
+Senecio germanicus						
+Senecio ovatus	7		4	5		8
+Senecio viscosus	8	6	4	3		4
+Silene nutans	7		5	3	7	3
+Silene species						
+Silene vulgaris	8			4	7	4
+Solanum dulcamara	7	5		8		8
+Solidago virgaurea	5			5		4
+Stachys palustris	7	5		7	7	6
+Stachys sylvatica	4		3	7	7	7
+Stellaria graminea	6			5	4	3
+Stellaria holostea	5	6	3	5	6	5
+Stellaria media	6				7	8
+Stellaria nemorum	4		4	7	5	7
+Symphytum officinale	7	6	3	7		8
+Taraxacum species						
+Thymus pulegioides	8		4	4		1
+Torilis japonica	6	6	3	5	8	8
+Trifolium alpestre	7	6	4	3	6	3
+Urtica dioica				6	7	9
+Vaccinium myrtillus	5		5		2	3
+Vaccinium vitis-idaea	5		5	4	2	1
+Valeriana excelsa ssp. sambucifolia	7	6	5	8	6	5
+Verbascum densiflorum	8	6	5	4	8	5
+Verbascum nigrum	7	5	5	5	7	7
+Verbascum species						
+Veronica beccabunga	7		3	10	7	6
+Veronica chamaedrys	6			5		
+Veronica officinalis	6		3	4	3	4
+Vicia dumetorum	6	6	4	5	8	4
+Vicia species						
+Vicia sylvatica	7		4	4	8	
+Vincetoxicum hirundinaria	6	5	5	3	7	3
+Viola collina	6	5	7	3	8	2
+Viola reichenbachiana	4		4	5	7	6
+Viola species						
+Viola tricolor						
