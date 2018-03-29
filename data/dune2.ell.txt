@@ -1,0 +1,29 @@
+	Light	Temp	Cont	Moist	React	Nutr
+Achimill	8			4		5
+Agrostol	8		5	7		5
+Airaprae	9	6	2	2	2	1
+Alopgeni	9	6	3	8	7	7
+Anthodor					5	
+Bellpere	8		2	5		6
+Bromhord	7	6	3			3
+Chenalbu				4		7
+Cirsarve	8	5				7
+Comapalu	8			9	3	2
+Eleopalu	8			10		
+Elymrepe	7	6	7			7
+Empenigr	7		3	6		2
+Hyporadi	8	5	3	5	4	3
+Juncarti	8		3	9		2
+Juncbufo	7	5		7	3	4
+Lolipere	8	6	3	5	7	7
+Planlanc	6		3			
+Poaprat	6			5		6
+Poatriv	6		3	7		7
+Ranuflam	7		3	9	3	2
+Rumeacet	8					6
+Sagiproc	7		3	5	7	6
+Salirepe	8	5		7		
+Scorautu	7		3	5	5	5
+Trifprat	7		3	5		
+Trifrepe	8			5	6	6
+Vicilath	8	7	4	2	3	2

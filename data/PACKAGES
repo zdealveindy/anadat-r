@@ -1,0 +1,20 @@
+Package: neutral.vp
+Type: Package
+Title: Simulate spatially explicit ecological communities with
+        dispersal limitation and environmental control
+Version: 1.0-0
+Date: 2008-07-01
+Author: Tyler Smith <tyler.smith@mail.mcgill.ca>
+Maintainer: Tyler Smith <tyler.smith@mail.mcgill.ca>
+Depends: vegan (>= 1.12-9), packfor (>= 0.0-7)
+Description: Generates spatially explicit ecological communities, using a new implementation of simulation models
+ originally developed by Graham Bell (2000, 2003, 2005) and described in Smith, Lundholm and Karst (in prep.). Includes
+ functions to prepare and display variation partitioning analyses of these communities, requiring functions provided by
+ vegan and packfor. packfor is not available through CRAN, and must be installed separately from source available at
+ http://biomserv.univ-lyon1.fr/~dray/software.php. Includes code modified from the ecodist package (version 1.1.3, 2007)
+ by Sarah Goslee and Dean Urban. 
+License: GPL-3
+LazyLoad: yes
+Packaged: Fri Jul 18 13:46:22 2008; tyler
+Built: R 2.15.1; x86_64-pc-mingw32; 2012-12-10 13:59:38 UTC; windows
+Archs: i386, x64

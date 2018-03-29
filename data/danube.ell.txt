@@ -1,0 +1,96 @@
+Species_Name	Light	Temp	Cont	Moist	React	Nutr
+Achillea millefolium	7	   	   	5	   	8
+Ajuga reptans	6	   	2	6	6	6
+Alchemilla vulgaris	6	4	4	5	6	6
+Alopecurus pratensis	6	   	5	6	6	7
+Angelica sylvestris	7	   	4	8	   	4
+Anthriscus silvestris	7	   	5	5	   	8
+Arrhenatherum elatius	8	5	3	   	7	7
+Bellis perennis	8	   	2	5	   	6
+Brachypodium pinnatum	6	5	5	4	7	4
+Briza media	8	   	3	   	   	2
+Bromus erectus	8	5	2	3	8	3
+Campanula glomerata	7	   	7	4	7	3
+Campanula rotundifolia	7	5	   	   	   	2
+Cardamine pratensis	4	   	   	6	   	   
+Carex acutiformis	7	   	3	9	7	5
+Carex flacca	7	   	3	6	8	4
+Carex gracilis	7	5	7	9	6	4
+Carex hirta	7	6	3	6	   	5
+Carex panicea	8	   	3	8	   	4
+Centaurea jacea	7	   	5	   	   	   
+Cerastium caespitosum	6	   	   	5	   	5
+Chenopodium album	   	   	   	4	   	7
+Chrysanthemum leucanthemum	7	   	3	4	   	3
+Cirsium oleraceum	6	   	3	7	7	5
+Crepis biennis	7	5	3	6	6	5
+Dactylis glomerata	7	   	3	5	   	6
+Daucus carota	8	6	5	4	   	4
+Deschampsia caespitosa	6	   	   	7	   	3
+Dianthus superbus	7	6	7	8	8	2
+Euphrasia odontites	6	6	3	5	6	5
+Festuca arundinacea	8	5	   	7	7	5
+Festuca ovina	7	   	3	   	3	1
+Festuca pratensis	8	   	3	6	   	6
+Festuca rubra	   	   	5	6	6	   
+Filipendula ulmaria	7	5	   	8	   	5
+Galium boreale	6	6	7	6	8	2
+Galium mollugo	7	6	3	4	7	
+Galium uliginosum	6	5		8	   	2
+Galium verum	7	6	   	4	7	3
+Geranium pratense	8	6	5	5	8	7
+Geum rivale	6	   	5	8	   	4
+Glechoma hederacea	6	6	3	6	   	7
+Glyceria fluitans	7	   	3	9	   	7
+Helictotrichon pubescens	5	   	3	3	   	4
+Heracleum sphondylium	7	5	2	5	   	8
+Holcus lanatus	7	6	3	6	   	5
+Knautia arvensis	7	6	3	4	   	4
+Koeleria pyramidata	7	6	4	4	7	2
+Lamium album	7	   	3	5	   	9
+Lathyrus pratensis	7	5	   	6	7	6
+Leontodon hispidus	8	   	3	5	7	6
+Linum catharticum	7	   	3	   	7	2
+Lolium perenne	8	6	3	5	7	7
+Lotus corniculatus	7	   	3	4	7	3
+Lychnis flos-cuculi	7	5	3	7	   	   
+Lysimachia nummularia	4	6	4	6	   	   
+Medicago lupulina	7	5	   	4	8	   
+Melandrium diurnum	   	   	4	6	7	8
+Myosotis arvensis	6	6	5	5	   	6
+Myosotis palustris	7	   	5	8	   	5
+Pastinaca sativa	8	6	5	4	8	5
+Phalaris arundinacea	7	5	   	8	7	7
+Phleum pratense	7	   	5	5	   	7
+Phragmites communis	7	5	   	10	7	7
+Pimpinella magna	7	5	2	5	7	6
+Pimpinella saxifraga	7	   	5	3	   	2
+Plantago lanceolata	6	   	3	   	   	   
+Plantago media	7	   	7	4	7	3
+Poa pratensis	6	   	   	5	   	6
+Poa trivialis	6	   	3	7	   	7
+Polygonum bistorta	7	4	7	7	5	5
+Polygonum convolvulus	7	6	   	5	   	6
+Potentilla reptans	6	6	3	6	7	5
+Prunella vulgaris	7	   	3	5	7	   
+Ranunculus acer	7	   	3	6	   	   
+Ranunculus repens	6	   	   	7	   	7
+Rumex acetosa	8	   	   	   	   	6
+Rumex crispus	7	5	3	7	   	6
+Salvia pratensis	8	6	4	3	8	4
+Sanguisorba officinalis	7	5	7	6	   	5
+Scabiosa columbaria	8	5	2	3	8	3
+Senecio jacobaea	8	5	3	4	7	5
+Silaus pratensis	7	6	5	   	7	3
+Silene inflata	8	   	   	4	7	4
+Taraxacum officinale	7	   	   	5	   	8
+Thymus serpyllum	7	6	5	2	5	1
+Tragopogon pratensis	7	6	3	4	7	6
+Trifolium pratense	7	   	3	5	   	   
+Trifolium repens	8	   	   	5	6	6
+Trisetum flavescens	7	   	5	   	   	5
+Veronica chamaedrys	6	   	   	5	   	   
+Vicia cracca	7	5	   	6	   	   
+Vicia sepium	   	   	5	5	6	5
+Viola hirta	6	5	5	3	8	3
+
