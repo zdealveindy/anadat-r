@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>Richness</name>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>93</i><br />
+]]></description>
+      <Point><coordinates>-79.855486779725069,9.149397804293198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>84</i><br />
+]]></description>
+      <Point><coordinates>-79.855483888768831,9.150302124339339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>90</i><br />
+]]></description>
+      <Point><coordinates>-79.855480997514675,9.151206444339557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>94</i><br />
+]]></description>
+      <Point><coordinates>-79.855478105962618,9.152110764293857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>101</i><br />
+]]></description>
+      <Point><coordinates>-79.855475214112673,9.153015084202227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>85</i><br />
+]]></description>
+      <Point><coordinates>-79.854576783796006,9.14939493037555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>82</i><br />
+]]></description>
+      <Point><coordinates>-79.854573890542397,9.150299250132935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>88</i><br />
+]]></description>
+      <Point><coordinates>-79.854570996990645,9.1512035698444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>90</i><br />
+]]></description>
+      <Point><coordinates>-79.854568103140778,9.152107889509944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>94</i><br />
+]]></description>
+      <Point><coordinates>-79.854565208992753,9.153012209129557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>87</i><br />
+]]></description>
+      <Point><coordinates>-79.853666788165071,9.149392054174966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>84</i><br />
+]]></description>
+      <Point><coordinates>-79.853663892614108,9.15029637364337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>93</i><br />
+]]></description>
+      <Point><coordinates>-79.853660996764773,9.151200693065849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>98</i><br />
+]]></description>
+      <Point><coordinates>-79.853658100617068,9.152105012442407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>93</i><br />
+]]></description>
+      <Point><coordinates>-79.853655204170977,9.153009331773037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>93</i><br />
+]]></description>
+      <Point><coordinates>-79.852756792832508,9.149389175691452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>93</i><br />
+]]></description>
+      <Point><coordinates>-79.852753894984204,9.150293494870645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>89</i><br />
+]]></description>
+      <Point><coordinates>-79.852750996837258,9.151197814003911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>109</i><br />
+]]></description>
+      <Point><coordinates>-79.852748098391743,9.152102133091256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>100</i><br />
+]]></description>
+      <Point><coordinates>-79.852745199647586,9.153006452132667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>99</i><br />
+]]></description>
+      <Point><coordinates>-79.851846797798544,9.149386294925014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>91</i><br />
+]]></description>
+      <Point><coordinates>-79.85184389765287,9.150290613814764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>99</i><br />
+]]></description>
+      <Point><coordinates>-79.85184099720837,9.151194932658589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>95</i><br />
+]]></description>
+      <Point><coordinates>-79.851838096465031,9.152099251456489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>105</i><br />
+]]></description>
+      <Point><coordinates>-79.851835195422822,9.153003570208456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>91</i><br />
+]]></description>
+      <Point><coordinates>-79.850936803063419,9.149383411875654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>99</i><br />
+]]></description>
+      <Point><coordinates>-79.850933900620419,9.150287730475734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>85</i><br />
+]]></description>
+      <Point><coordinates>-79.850930997878322,9.151192049029884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>86</i><br />
+]]></description>
+      <Point><coordinates>-79.850928094837158,9.152096367538112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>97</i><br />
+]]></description>
+      <Point><coordinates>-79.850925191496898,9.153000686000404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>77</i><br />
+]]></description>
+      <Point><coordinates>-79.850026808627376,9.149380526543373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>88</i><br />
+]]></description>
+      <Point><coordinates>-79.850023903887035,9.150284844853553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>86</i><br />
+]]></description>
+      <Point><coordinates>-79.85002099884737,9.151189163117806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>92</i><br />
+]]></description>
+      <Point><coordinates>-79.850018093508382,9.152093481336129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>83</i><br />
+]]></description>
+      <Point><coordinates>-79.850015187870071,9.152997799508517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>92</i><br />
+]]></description>
+      <Point><coordinates>-79.849116814490642,9.149377638928177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>88</i><br />
+]]></description>
+      <Point><coordinates>-79.84911390745296,9.150281956948231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>82</i><br />
+]]></description>
+      <Point><coordinates>-79.849111000115727,9.151186274922351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>84</i><br />
+]]></description>
+      <Point><coordinates>-79.849108092478929,9.152090592850543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>80</i><br />
+]]></description>
+      <Point><coordinates>-79.84910518454258,9.152994910732795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>102</i><br />
+]]></description>
+      <Point><coordinates>-79.848206820653459,9.149374749030073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>87</i><br />
+]]></description>
+      <Point><coordinates>-79.84820391131845,9.150279066759767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>86</i><br />
+]]></description>
+      <Point><coordinates>-79.848201001683634,9.151183384443527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>81</i><br />
+]]></description>
+      <Point><coordinates>-79.848198091749055,9.152087702081358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>81</i><br />
+]]></description>
+      <Point><coordinates>-79.84819518151464,9.152992019673249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>86</i><br />
+]]></description>
+      <Point><coordinates>-79.847296827116068,9.14937185684906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>102</i><br />
+]]></description>
+      <Point><coordinates>-79.847293915483732,9.150276174288164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>91</i><br />
+]]></description>
+      <Point><coordinates>-79.847291003551348,9.151180491681336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>91</i><br />
+]]></description>
+      <Point><coordinates>-79.847288091318944,9.152084809028576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>Richness:</b> <i>93</i><br />
+]]></description>
+      <Point><coordinates>-79.847285178786521,9.152989126329874</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

@@ -1,0 +1,6 @@
+"Lat"	"Long"	"Elev"	"Precip"
+"chiba"	35.15	140.15	270	2600
+"nanjensh"	22	120.83	310	2500
+"kenting"	21.92	120.83	200	2500
+"palanan"	17.13	122.52	30	2400
+"semengoh"	1.83	110.8	100	4167
