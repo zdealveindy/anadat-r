@@ -1,5 +1,5 @@
 "FT"	"GY"	"LJ"	"PL"	"WJ"	"YLN"	"YYH"
-"plot.no"	25	25	25	25	25	25	25
+"no_of_subplots"	25	25	25	25	25	25	25
 "Acalypha.suirenbiensis"	1	0	0	0	0	0	0
 "Acer.kawakamii"	0	1	0	0	0	0	0
 "Acer.morrisonense"	0	0	1	0	0	0	0
