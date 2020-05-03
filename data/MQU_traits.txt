@@ -1,0 +1,90 @@
+Species	SLA	LDMC	LT	LA	SSD
+Acer palmatum var. pubescens	22	427.3	0.14	1785	0.61
+Acer serrulatum	19.1	446.6	0.15	2534	0.61
+Ardisia quinquegona	11.3	423.1	0.21	1428	0.6
+Barthea barthei	20.8	301.6	0.28	1504	0.54
+Blastus cochinchinensis	31.7	267.8	0.19	3628	0.5
+Camellia brevistyla	10.3	409.4	0.32	796	0.57
+Camellia tenuifolia	9.9	420.7	0.34	854	0.56
+Castanopsis cuspidata var. carlesii	9.8	473.6	0.32	1816	0.55
+Chamaecyparis obtusa var. formosana	7.2	461.6	0.71	756	0.47
+Cinnamomum kanehirae	10.4	391	0.29	4508	0.43
+Cinnamomum subavenium	7.8	524.7	0.64	1081	0.46
+Cleyera japonica var. longicarpa	6.1	416.2	0.59	1475	0.61
+Cleyera japonica var. taipinensis	7.6	361.3	0.48	1701	0.61
+Cryptocarya chinensis	13	387.9	0.25	2466	0.5
+Cyclobalanopsis longinux	11.5	503.5	0.25	984	0.76
+Cyclobalanopsis morii	7.2	536.7	0.39	2100	0.72
+Cyclobalanopsis sessilifolia	7.4	486.9	0.47	1892	0.72
+Daphniphyllum glaucescens subsp. oldhamii	13.2	340.7	0.27	2608	0.52
+Dendropanax dentiger	17.3	307.4	0.23	1939	0.51
+Diospyros morrisiana	15.5	351.9	0.24	2017	0.51
+Elaeocarpus japonicus	9.9	432.1	0.29	2920	0.49
+Engelhardia roxburghiana	17.2	389.5	0.22	3584	0.45
+Eurya crenatifolia	12.9	428	0.31	373	0.61
+Eurya glaberrima	10.8	376.4	0.3	1221	0.59
+Eurya loquaiana	15.5	406.6	0.21	895	0.62
+Fatsia polycarpa	18.1	291.9	0.24	55524	0.35
+Ficus erecta var. beecheyana	30.2	293.1	0.21	5185	0.55
+Fraxinus griffithii	9.3	505.5	0.25	1402	0.68
+Glochidion acuminatum	16.1	392.7	0.22	2069	0.46
+Glochidion rubrum	24.5	311.7	0.29	2575	0.38
+Helicia formosana	15.8	306.6	0.26	12759	0.59
+Ilex ficoidea	13.4	412.1	0.27	1354	0.59
+Ilex formosana	15.4	385.4	0.28	1963	0.56
+Ilex goshiensis	10.5	419.5	0.37	916	0.58
+Ilex hayatana	9.8	427.3	0.37	827	0.56
+Ilex lonicerifolia	9.8	405.8	0.36	1579	0.48
+Illicium anisatum	8.1	379.5	0.4	2272	0.6
+Illicium arborescens	12.8	327.1	0.32	3166	0.62
+Itea parviflora	18.1	347.7	0.2	2656	0.56
+Lasianthus fordii	19.4	329.3	0.39	2659	0.52
+Lasianthus wallichii	17	381.8	0.48	1857	0.55
+Limlia uraiana	7.5	479.1	0.34	1175	0.53
+Litsea acuminata	11.2	484	0.29	2837	0.5
+Litsea elongata var. mushaensis	12.5	463.7	0.43	2104	0.48
+Machilus japonica	9.8	459.9	0.29	2917	0.52
+Machilus thunbergii	8.4	492	0.31	1685	0.57
+Machilus zuihoensis	9.1	461.6	0.32	2201	0.53
+Malus doumeri	13.8	493.2	0.25	1938	0.74
+Meliosma squamulata	12.6	386.5	0.3	1940	0.45
+Michelia compressa	13	336	0.31	1378	0.54
+Myrsine seguinii	10.6	364.8	0.32	3351	0.67
+Neolitsea aciculata	13.7	490.4	0.24	2127	0.54
+Neolitsea acuminatissima	11.2	545.2	0.22	916	0.55
+Neolitsea konishii	11.5	507.1	0.29	2680	0.52
+Neolitsea sericea	10.3	508.5	0.33	1675	0.6
+Osmanthus enervius	9.3	437.6	0.35	1258	0.73
+Osmanthus heterophyllus	7.3	521.6	0.51	1226	0.68
+Osmanthus marginatus	13.9	477.2	0.2	2440	0.64
+Osmanthus matsumuranus	12.5	402.1	0.27	4029	0.65
+Pasania harlandii	6.1	504.4	0.62	5858	0.61
+Photinia niitakayamensis	9.3	464.5	0.25	1114	0.71
+Prunus phaeosticta	11.2	441.5	0.3	1268	0.65
+Psychotria rubra	12.7	285	0.32	4071	0.53
+Pyrenaria shinkoensis	10.7	341.9	0.34	2733	0.45
+Rhaphiolepis indica var. tashiroi	11.6	404.3	0.32	686	0.79
+Rhododendron formosanum	5.6	471.4	0.54	3360	0.56
+Rhododendron leptosanthum	9.7	415.9	0.35	2682	0.54
+Schefflera octophylla	11.7	343.4	0.29	4148	0.39
+Schefflera taiwaniana	9.6	347.6	0.35	8732	0.47
+Schima superba	9.5	428.3	0.3	2619	0.53
+Styrax suberifolia	12.4	492.3	0.28	3175	0.54
+Sycopsis sinensis	8.9	431.8	0.47	2982	0.52
+Symplocos arisanensis	15.9	323.8	0.26	1390	0.51
+Symplocos caudata	15.1	350.8	0.24	1125	0.56
+Symplocos glauca	13	352.5	0.31	4957	0.43
+Symplocos migoi	12.5	391.5	0.27	865	0.52
+Symplocos morrisonicola	14.6	361.6	0.25	876	0.56
+Symplocos stellaris	13.4	339.7	0.27	3507	0.45
+Symplocos theophrastifolia	10.6	331.1	0.35	1881	0.39
+Symplocos wikstroemiifolia	16.4	286.8	0.25	1220	0.46
+Syzygium buxifolium	10.4	430.6	0.3	1566	0.73
+Ternstroemia gymnanthera	9.6	343.1	0.5	1054	0.66
+Tricalysia dubia	14.9	350	0.26	3247	0.6
+Trochodendron aralioides	8.8	422.8	0.36	2667	0.55
+Turpinia formosana	13.9	299.9	0.32	5915	0.45
+Vaccinium randaiense	10.8	410.4	0.31	898	0.59
+Viburnum foetidum var. rectangulatum	18	363.4	0.23	1231	0.6
+Viburnum integrifolium	18.4	351.2	0.26	998	0.64
+Viburnum taitoense	15.2	387.9	0.26	1216	0.65
