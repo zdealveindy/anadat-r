@@ -17,7 +17,7 @@
   # Scaling 1: "species" scores scaled to relative eigenvalues
   sit.sc1 <- scores(res.pca, display="wa", scaling=1, choices=c(1:p))
   spe.sc1 <- scores(res.pca, display="sp", scaling=1, choices=c(1:p))
-  plot.cca(res.pca, choices=c(ax1,ax2), display=c("wa","sp"), type="n", 
+  vegan:::plot.cca(res.pca, choices=c(ax1,ax2), display=c("wa","sp"), type="n", 
 	 main="PCA - scaling 1", scaling=1)
   if (point) {
     points(sit.sc1[,ax1], sit.sc1[,ax2], pch=20)
